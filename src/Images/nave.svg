@@ -1,0 +1,92 @@
+<svg
+        width="50.01"
+        height="59.288"
+        viewBox="0 0 13.232 15.687"
+        xmlns="http://www.w3.org/2000/svg"
+      >
+        <path
+          style="opacity:1;vector-effect:none;fill:#d40000;fill-rule:evenodd;stroke-width:.349845;stop-color:#000;stop-opacity:1"
+          d="m17.97 40.89-.11-.17-.11.169-.111-.172-.11.168.003-.755.337-.244.311.256.01.738-.11-.16z"
+          transform="translate(-9.258 -25.204)"
+        />
+        <path
+          style="opacity:1;vector-effect:none;fill:#f60;fill-rule:evenodd;stroke-width:.383233;stop-color:#000;stop-opacity:1"
+          d="m17.992 40.758-.133-.17-.132.169-.132-.172-.133.168.005-.756.404-.243.374.256.011.738-.132-.16z"
+          transform="translate(-9.258 -25.204)"
+        />
+        <path
+          style="opacity:1;vector-effect:none;fill:#ffd42a;fill-rule:evenodd;stroke-width:.518587;stop-color:#000;stop-opacity:1"
+          d="m18.003 40.655-.154-.269-.154.266-.155-.269-.154.264.005-1.186.471-.383.437.402.013 1.159-.154-.252z"
+          transform="translate(-9.258 -25.204)"
+        />
+        <path
+          style="fill:red;fill-rule:evenodd;stroke-width:.250831"
+          d="M17.198 37.042h1.323v2.646c-.449-.274-.889-.246-1.323 0v-.016z"
+          transform="translate(-9.258 -25.204)"
+        />
+        <path
+          style="opacity:1;vector-effect:none;fill:#d40000;fill-rule:evenodd;stroke-width:.349845;stop-color:#000;stop-opacity:1"
+          d="m17.97 40.89-.11-.17-.11.169-.111-.172-.11.168.003-.755.337-.244.311.256.01.738-.11-.16z"
+          transform="translate(-13.226 -25.204)"
+        />
+        <path
+          style="opacity:1;vector-effect:none;fill:#f60;fill-rule:evenodd;stroke-width:.383233;stop-color:#000;stop-opacity:1"
+          d="m17.992 40.758-.133-.17-.132.169-.132-.172-.133.168.005-.756.404-.243.374.256.011.738-.132-.16z"
+          transform="translate(-13.226 -25.204)"
+        />
+        <path
+          style="opacity:1;vector-effect:none;fill:#ffd42a;fill-rule:evenodd;stroke-width:.518587;stop-color:#000;stop-opacity:1"
+          d="m18.003 40.655-.154-.269-.154.266-.155-.269-.154.264.005-1.186.471-.383.437.402.013 1.159-.154-.252z"
+          transform="translate(-13.226 -25.204)"
+        />
+        <path
+          style="fill:red;fill-rule:evenodd;stroke-width:.250831"
+          d="M17.198 37.042h1.323v2.646c-.449-.274-.889-.246-1.323 0v-.016z"
+          transform="translate(-13.226 -25.204)"
+        />
+        <g transform="translate(-.328 -25.197)">
+          <rect
+            style="fill:red;fill-rule:evenodd;stroke-width:.294696"
+            width=".331"
+            height="5.292"
+            x="13.229"
+            y="34.264"
+            ry=".212"
+          />
+          <path
+            style="fill:#4d4d4d;fill-rule:evenodd;stroke-width:.280225"
+            d="M-13.226-34.455a.165.198 0 0 1-.083.172.165.198 0 0 1-.166 0 .165.198 0 0 1-.082-.172h.165z"
+            transform="scale(-1)"
+          />
+        </g>
+        <g transform="translate(-13.226 -25.197)">
+          <rect
+            style="fill:red;fill-rule:evenodd;stroke-width:.294696"
+            width=".331"
+            height="5.292"
+            x="13.229"
+            y="34.264"
+            ry=".212"
+          />
+          <path
+            style="fill:#4d4d4d;fill-rule:evenodd;stroke-width:.280225"
+            d="M-13.226-34.455a.165.198 0 0 1-.083.172.165.198 0 0 1-.166 0 .165.198 0 0 1-.082-.172h.165z"
+            transform="scale(-1)"
+          />
+        </g>
+        <path
+          style="fill:#f9f9f9;fill-rule:evenodd;stroke-width:.237762"
+          d="M18.52 26.458c.843-1.615 1.723-1.728 2.647 0l5.291 13.23-3.968-2.646h-5.292l-3.969 2.645z"
+          transform="translate(-13.226 -25.204)"
+        />
+        <path
+          style="fill:navy;fill-rule:evenodd;stroke:red;stroke-width:.396875;stroke-miterlimit:4;stroke-dasharray:none"
+          d="M-18.468-27.955a1.327 1.994 0 0 1-.666 1.729 1.327 1.994 0 0 1-1.329-.006 1.327 1.994 0 0 1-.66-1.733l1.328.01z"
+          transform="matrix(-1 .003 -.0023 -1 -13.226 -25.204)"
+        />
+        <path
+          style="fill:navy;fill-rule:evenodd;stroke:red;stroke-width:.396875"
+          d="M18.58 30.206h2.78l1 4.757h-4.771z"
+          transform="translate(-13.226 -25.204)"
+        />
+      </svg>
