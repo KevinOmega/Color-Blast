@@ -27,78 +27,32 @@
       }
     }
   }
-  .asteroid {
+  .asteroid-container {
     position: absolute;
-  }
-  .asteroid-1 {
-    top: 0;
-    left: 90%;
-    animation: a1 15s linear 1s infinite;
-  }
-  .asteroid-2 {
-    top: 50%;
-    left: 90%;
-    animation: a2 10s linear 1s infinite;
-  }
-  .asteroid-3 {
-    top: 50%;
-    left: 90%;
-    animation: a3 7s linear 1s infinite;
-  }
-  .asteroid-4 {
-    top: 30%;
-    left: 0%;
-    animation: a4 5s linear 1s infinite;
-  }
-  .asteroid-5 {
-    top: 80%;
-    left: 0%;
-    animation: a5 2s linear 1s infinite;
-  }
-}
+    top: -5rem;
+    left: 0;
+    height: 100%;
+    width: 100%;
+    font-size: 1rem;
 
-@keyframes a1 {
-  0% {
-    transform: translate(0, 0) rotate(20deg);
-  }
-  100% {
-    transform: translate(-110rem, 40rem) rotate(720deg);
-  }
-}
-
-@keyframes a2 {
-  0% {
-    transform: translate(0, 0) rotate(20deg);
-  }
-  100% {
-    transform: translate(-110rem, 10rem) rotate(720deg);
-  }
-}
-
-@keyframes a3 {
-  0% {
-    transform: translate(0, 0) rotate(20deg);
-  }
-  100% {
-    transform: translate(-110rem, -20rem) rotate(720deg);
-  }
-}
-
-@keyframes a4 {
-  0% {
-    transform: translate(0, 0) rotate(20deg);
-  }
-  100% {
-    transform: translate(90rem, 25rem) rotate(720deg);
-  }
-}
-
-@keyframes a5 {
-  0% {
-    transform: translate(0, 0) rotate(20deg);
-  }
-
-  100% {
-    transform: translate(90rem, -20rem) rotate(720deg);
+    .asteroid {
+      position: absolute;
+    }
+    & img:nth-child(4n + 1) {
+      animation: a1 linear infinite;
+      @include asteroide-animation(a1, 10rem);
+    }
+    & img:nth-child(4n + 2) {
+      animation: a2 ease-in infinite;
+      @include asteroide-animation(a2, -10rem);
+    }
+    & img:nth-child(4n + 3) {
+      animation: a3 ease-in-out infinite;
+      @include asteroide-animation(a3, 5rem);
+    }
+    & img:nth-child(4n + 4) {
+      animation: a4 ease-out infinite;
+      @include asteroide-animation(a4, -5rem);
+    }
   }
 }

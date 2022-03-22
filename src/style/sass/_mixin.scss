@@ -1,0 +1,15 @@
+@mixin asteroide-animation($name, $x) {
+  @keyframes #{$name} {
+    70% {
+      opacity: 1;
+    }
+
+    80% {
+      transform: translate($x, 45rem) rotate(520deg);
+      opacity: 0;
+    }
+    100% {
+      opacity: 0;
+    }
+  }
+}
